@@ -1,0 +1,12 @@
+{
+  "name": "amali-node-proxy",
+  "version": "1.0.0",
+  "description": "SOAP TLS Proxy for banking integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "author": "Amali",
+  "license": "MIT"
+}
