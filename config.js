@@ -1,5 +1,5 @@
 module.exports = {
-    port: 3000,
+    port: 3121,
 
     // 🔒 Change this in production
     apiKey: process.env.API_KEY || "CHANGE_THIS_SECRET",
